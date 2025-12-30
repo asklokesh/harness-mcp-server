@@ -1,5 +1,7 @@
 # Harness MCP Server
 
+<!-- mcp-name: io.github.asklokesh/harness-mcp-server -->
+
 <div align="center">
 
 # Harness Mcp Server
