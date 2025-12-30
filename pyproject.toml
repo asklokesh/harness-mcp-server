@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 harness-mcp = "harness_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/harness_mcp"]
